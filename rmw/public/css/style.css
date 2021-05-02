@@ -1,0 +1,19 @@
+textarea{
+    resize:none;
+    overflow-y: auto;
+}
+
+.rounded-1{
+    border-radius: 5px;
+}
+
+.rounded-2{
+    border-radius: 10px;
+}
+.form-label{
+    font-size: 17px;
+}
+.btn-right-top{
+    top:4px;
+    right:5px;
+}
